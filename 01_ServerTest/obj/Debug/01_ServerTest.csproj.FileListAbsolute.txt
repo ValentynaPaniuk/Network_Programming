@@ -1,0 +1,7 @@
+D:\Шаг\Network Programming\01_ServerTest\obj\Debug\01_ServerTest.csprojAssemblyReference.cache
+D:\Шаг\Network Programming\01_ServerTest\obj\Debug\01_ServerTest.csproj.CoreCompileInputs.cache
+D:\Шаг\Network Programming\01_ServerTest\bin\Debug\01_ServerTest.exe.config
+D:\Шаг\Network Programming\01_ServerTest\bin\Debug\01_ServerTest.exe
+D:\Шаг\Network Programming\01_ServerTest\bin\Debug\01_ServerTest.pdb
+D:\Шаг\Network Programming\01_ServerTest\obj\Debug\01_ServerTest.exe
+D:\Шаг\Network Programming\01_ServerTest\obj\Debug\01_ServerTest.pdb

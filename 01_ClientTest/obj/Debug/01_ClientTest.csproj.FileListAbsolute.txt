@@ -1,0 +1,15 @@
+D:\Шаг\Network Programming\01_ClientTest\bin\Debug\01_ClientTest.exe.config
+D:\Шаг\Network Programming\01_ClientTest\bin\Debug\01_ClientTest.exe
+D:\Шаг\Network Programming\01_ClientTest\bin\Debug\01_ClientTest.pdb
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\01_ClientTest.csprojAssemblyReference.cache
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\MainWindow.g.cs
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\App.g.cs
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\01_ClientTest_MarkupCompile.cache
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\01_ClientTest_MarkupCompile.lref
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\MainWindow.baml
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\01_ClientTest.g.resources
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\_01_ClientTest.Properties.Resources.resources
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\01_ClientTest.csproj.GenerateResource.cache
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\01_ClientTest.csproj.CoreCompileInputs.cache
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\01_ClientTest.exe
+D:\Шаг\Network Programming\01_ClientTest\obj\Debug\01_ClientTest.pdb

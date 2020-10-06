@@ -1,0 +1,7 @@
+D:\Шаг\Network Programming\01_Network_Programming\bin\Debug\01_Network_Programming.exe.config
+D:\Шаг\Network Programming\01_Network_Programming\bin\Debug\01_Network_Programming.exe
+D:\Шаг\Network Programming\01_Network_Programming\bin\Debug\01_Network_Programming.pdb
+D:\Шаг\Network Programming\01_Network_Programming\obj\Debug\01_Network_Programming.csprojAssemblyReference.cache
+D:\Шаг\Network Programming\01_Network_Programming\obj\Debug\01_Network_Programming.csproj.CoreCompileInputs.cache
+D:\Шаг\Network Programming\01_Network_Programming\obj\Debug\01_Network_Programming.exe
+D:\Шаг\Network Programming\01_Network_Programming\obj\Debug\01_Network_Programming.pdb
