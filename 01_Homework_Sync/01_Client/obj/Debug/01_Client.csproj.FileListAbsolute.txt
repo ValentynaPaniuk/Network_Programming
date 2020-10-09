@@ -1,0 +1,15 @@
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\bin\Debug\01_Client.exe.config
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\bin\Debug\01_Client.exe
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\bin\Debug\01_Client.pdb
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\01_Client.csprojAssemblyReference.cache
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\MainWindow.g.cs
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\App.g.cs
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\01_Client_MarkupCompile.cache
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\01_Client_MarkupCompile.lref
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\MainWindow.baml
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\01_Client.g.resources
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\_01_Client.Properties.Resources.resources
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\01_Client.csproj.GenerateResource.cache
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\01_Client.csproj.CoreCompileInputs.cache
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\01_Client.exe
+D:\Шаг\Network Programming\01_Homework_Sync\01_Client\obj\Debug\01_Client.pdb

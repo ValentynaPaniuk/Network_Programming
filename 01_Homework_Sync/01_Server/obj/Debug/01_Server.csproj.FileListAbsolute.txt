@@ -1,0 +1,7 @@
+D:\Шаг\Network Programming\01_Homework_Sync\01_Server\bin\Debug\01_Server.exe.config
+D:\Шаг\Network Programming\01_Homework_Sync\01_Server\bin\Debug\01_Server.exe
+D:\Шаг\Network Programming\01_Homework_Sync\01_Server\bin\Debug\01_Server.pdb
+D:\Шаг\Network Programming\01_Homework_Sync\01_Server\obj\Debug\01_Server.csprojAssemblyReference.cache
+D:\Шаг\Network Programming\01_Homework_Sync\01_Server\obj\Debug\01_Server.csproj.CoreCompileInputs.cache
+D:\Шаг\Network Programming\01_Homework_Sync\01_Server\obj\Debug\01_Server.exe
+D:\Шаг\Network Programming\01_Homework_Sync\01_Server\obj\Debug\01_Server.pdb
